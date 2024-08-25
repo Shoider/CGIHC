@@ -1,0 +1,13 @@
+﻿  Window.cpp
+D:\Brandon Hernandez\Documents\Escuela\UNAM\CGIHC\CGIHCP1\CGIHCP1\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "Window.cpp")
+  
+D:\Brandon Hernandez\Documents\Escuela\UNAM\CGIHC\CGIHCP1\CGIHCP1\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "Window.cpp")
+  
+  Generando código
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+D:\Brandon Hernandez\Documents\Escuela\UNAM\CGIHC\CGIHCP1\CGIHCP1\Window.cpp(74): warning C4715: 'Window::Initialise': no todas las rutas de acceso de control devuelven un valor
+  All 361 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  CGIHCP1.vcxproj -> D:\Brandon Hernandez\Documents\Escuela\UNAM\CGIHC\CGIHCP1\Release\CGIHCP1.exe
