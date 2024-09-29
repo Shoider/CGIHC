@@ -1,0 +1,52 @@
+# Blender 4.2.1 LTS MTL File: 'Carro.blend'
+# www.blender.org
+
+newmtl 13___Default
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.514900 0.514900 0.514900
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd D:/Brandon Hernandez/Documents/Escuela/UNAM/CGIHC/CGIHCP1/CGIHCP1/Textures/Wingo.tga
+
+newmtl 1___Default.001
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.316900 0.316900 0.316900
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd D:/Brandon Hernandez/Documents/Escuela/UNAM/CGIHC/CGIHCP1/CGIHCP1/Textures/Wingo.tga
+
+newmtl 3___Default.001
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.894100 0.894100 0.894100
+Ks 0.142600 0.142600 0.142600
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl 9___Default.001
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd D:/Brandon Hernandez/Documents/Escuela/UNAM/CGIHC/CGIHCP1/CGIHCP1/Textures/Wingo.tga
+
+newmtl Default.001
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Ks 0.707000 0.707000 0.707000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd D:/Brandon Hernandez/Documents/Escuela/UNAM/CGIHC/CGIHCP1/CGIHCP1/Textures/Wingo.tga
